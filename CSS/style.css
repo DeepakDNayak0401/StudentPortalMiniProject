@@ -1,0 +1,23 @@
+
+/* imports fonts from fonts.css  */
+@import url(fonts.css);
+
+/* css variables */
+@import url(./partials/_variables.css);
+
+/* global css */
+@import url(./partials/global.css);
+
+/* ============================index.html styling goes here================================= */
+/* ============================index.html styling ends here================================= */
+
+/* ============================test.html styling goes here================================= */
+.navbar{
+    background-color: red;
+}
+
+
+/* ============================test.html styling ends here================================= */
+
+
+
